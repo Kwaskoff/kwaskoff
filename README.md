@@ -1,7 +1,7 @@
-### Hi there 👋
+### 0xBYTESHIFT's homepage
 
 <!--
-**Kwaskoff/kwaskoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xBYTESHIFT/0xBYTESHIFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contacts
+t.me/kwaskoff
+
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=kwaskoff&theme=gruvbox)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaskoff&theme=gruvbox&layout=compact)
