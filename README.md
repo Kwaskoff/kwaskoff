@@ -8,6 +8,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=kwaskoff&theme=great-gatsby)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaskoff&theme=great-gatsby)
 
-# 📩 Latest Blog Posts // Yxxxxxxxou can name it whatever you want.
+# 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
