@@ -1,22 +1,13 @@
-### Kwaskoff's homepage
+### Hello, guys! I'm Aleksandr Kwaskoff 👋  
+[![Follow Me](https://img.shields.io/github/followers/pieterclaerhout?label=Follow&style=social)](https://github.com/pieterclaerhout)
 
-<!--
-**Kwaskoff/Kwaskoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Contacts
-t.me/kwaskoff
+- 🌱 I'm president of [FinTechAssociation](https://finteh.org)
+- 💬 Ask me about [fintech](https://t.me/finteh)
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=kwaskoff&theme=solarized-light)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaskoff&theme=solarized-light)
+![Stats](https://github-readme-stats.vercel.app/api?username=kwaskoff&theme=great-gatsby)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaskoff&theme=great-gatsby)
+
+# 📩 Latest Blog Posts // You can name it whatever you want.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
